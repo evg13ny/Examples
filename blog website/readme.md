@@ -1,4 +1,4 @@
-An example of blog website using PHP, MySQL and MVC model.
+An example of blog website using PHP, MySQL, MVC model and swiper.
 
 After logging in you can upload a new post.
 
