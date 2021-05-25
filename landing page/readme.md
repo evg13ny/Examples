@@ -1,0 +1,1 @@
+An example of landing page using HTML, CSS and JavaScript with dark / light theme. Mobile first then desktop.
