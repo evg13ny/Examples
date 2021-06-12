@@ -2,13 +2,13 @@ Hi!
 
 Here you can find an examples of my work.
 
-* <a href="https://github.com/evg13ny/examples/tree/main/portfolio%20website" target="_blank">Responsive portfolio website</a> using HTML, CSS and JavaScript with dark / light theme and swiper.
+* <a href="https://github.com/evg13ny/examples/tree/main/portfolio-website" target="_blank">Responsive portfolio website</a> using HTML, CSS and JavaScript with dark / light theme and swiper. For launching click the <a href="https://github.com/evg13ny/examples/portfolio-website" target="_blank">link</a>.
 
 * <a href="https://github.com/evg13ny/examples/tree/main/evroset" target="_blank">Responsive Ecommerce website</a> build in React, Redux, Axios and MongoDB using Bcryptjs.
 
-* <a href="https://github.com/evg13ny/examples/tree/main/landing%20page" target="_blank">Responsive landing page</a> using HTML, CSS and JavaScript with dark / light theme.
+* <a href="https://github.com/evg13ny/examples/tree/main/landing-page" target="_blank">Responsive landing page</a> using HTML, CSS and JavaScript with dark / light theme. For launching click the <a href="https://github.com/evg13ny/examples/landing-page" target="_blank">link</a>.
 
-* Another example of <a href="https://github.com/evg13ny/examples/tree/main/easybank%20landing%20page" target="_blank">responsive landing page</a> using HTML, SCSS, JavaScript, flexbox and grid.
+* Another example of <a href="https://github.com/evg13ny/examples/tree/main/easybank-landing-page" target="_blank">responsive landing page</a> using HTML, SCSS, JavaScript, flexbox and grid. For launching click the <a href="https://github.com/evg13ny/examples/easybank-landing-page" target="_blank">link</a>.
 
 * A simple <a href="https://github.com/evg13ny/examples/tree/main/to-do%20list" target="_blank">to-do list</a> using PHP, MySQL and Bootstrap.
 

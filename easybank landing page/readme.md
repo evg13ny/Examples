@@ -1,1 +1,0 @@
-An example of landing page using HTML, SCSS, JavaScript, flexbox and grid. Mobile first then desktop.
