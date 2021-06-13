@@ -4,7 +4,7 @@ Here you can find an examples of my work.
 
 * <a href="https://github.com/evg13ny/alexa-portfolio-website/" target="_blank">Responsive portfolio website</a> using HTML, CSS and JavaScript with dark / light theme and swiper. For launching click the <a href="https://evg13ny.github.io/alexa-portfolio-website/" target="_blank">link</a>.
 
-* <a href="https://github.com/evg13ny/examples/tree/main/evroset" target="_blank">Responsive Ecommerce website</a> build in React, Redux, Axios and MongoDB using Bcryptjs.
+* <a href="https://github.com/evg13ny/evroset/" target="_blank">Responsive Ecommerce website</a> build on React, Redux and MongoDB.
 
 * <a href="https://github.com/evg13ny/examples/tree/main/landing-page" target="_blank">Responsive landing page</a> using HTML, CSS and JavaScript with dark / light theme. For launching click the <a href="https://github.com/evg13ny/examples/landing-page" target="_blank">link</a>.
 
