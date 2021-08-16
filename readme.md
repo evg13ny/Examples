@@ -15,3 +15,5 @@ Here you can find an examples of my work.
 * <a href="https://github.com/evg13ny/blog-website/" target="_blank">Blog website</a> using PHP, MySQL and MVC model.
 
 * <a href="https://github.com/evg13ny/eshopper" target="_blank">EShop website</a> using PHP, MySQL MVC, OOP.
+
+* <a href="https://github.com/evg13ny/magazine" target="_blank">News website</a> using Laravel.
