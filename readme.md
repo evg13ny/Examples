@@ -13,3 +13,5 @@ Here you can find an examples of my work.
 * <a href="https://github.com/evg13ny/php-todo-app" target="_blank">To-do list</a> made with PHP and SQL.
 
 * <a href="https://github.com/evg13ny/php-mvc-wedding" target="_blank">Landing page</a> made with PHP using MVC and OOP.
+
+* <a href="https://github.com/evg13ny/qa-examples" target="_blank">QA examples</a>.
